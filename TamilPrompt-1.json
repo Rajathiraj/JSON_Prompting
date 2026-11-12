@@ -1,0 +1,27 @@
+{
+  "subject": "A woman in her fifties in a brick-red and indigo checked Kandangi cotton sari, kneeling to draw a pulli kolam in white rice flour on the courtyard floor, jasmine strung in her hair, a brass kuthuvilakku lamp lit beside her",
+  "setting": {
+    "place": "Courtyard (mutram) of a Chettiar mansion in Kanadukathan, Chettinad, Sivaganga district, Tamil Nadu, with Burma teak pillars, carved teak doors, and a floor of handmade Athangudi cement tiles in terracotta and ochre",
+    "era": "1930s, the heyday of the Nattukottai Chettiar mansions",
+    "time_of_day": "first light before sunrise, a Margazhi morning in mid-December"
+  },
+  "lighting": "soft cool blue pre-dawn light from the open sky above the courtyard, warm flicker from the brass lamp, light mist hanging low",
+  "camera": {
+    "shot": "wide shot",
+    "lens": "35mm",
+    "angle": "eye level, slightly low, looking across the courtyard through the pillars"
+  },
+  "palette": ["terracotta", "Burma teak brown", "rice-flour white", "Kandangi brick red", "indigo", "brass gold"],
+  "style": "natural documentary photography, muted film tones, realistic skin and fabric texture",
+  "aspect_ratio": "16:9",
+  "avoid": [
+    "Mughal domes or arches",
+    "Rajasthani or Kerala architecture",
+    "Bollywood glamour styling",
+    "generic sari or heavy bridal jewellery",
+    "text, logos or watermarks",
+    "neon or oversaturated colours",
+    "extra fingers or distorted hands",
+    "stock-photo postcard posing"
+  ]
+}
